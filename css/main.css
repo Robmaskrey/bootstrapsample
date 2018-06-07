@@ -1,0 +1,43 @@
+.center {
+  display: block;
+  margin: 20px auto;
+}
+
+.extra-margin{
+  margin: 50px 0px;
+}
+
+.pic_text {
+  padding-top: 50px;
+}
+
+footer {
+  background-color: #343a40!important;
+  color: #999c99;
+  padding: 25px;
+}
+
+.btn-primary {
+  color: rgba(255,255,255,.5);
+  background-color: #343a40;
+  border-color: 343a40;
+}
+
+.square {
+  border-radius: 0;
+}
+
+.card {
+  margin: 25px;
+  padding: 10px;
+  box-shadow: 0px 0px 5px 0px grey;
+}
+
+.card-subtitle {
+  font-style: italic;
+  padding-bottom: 15px;
+}
+
+.center {
+  text-align: center;
+}
